@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_F25583F6_FDC9_CE13_41B6_1BF439B92B50.label = Schüepwis 28d
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Schüepwis 28d
